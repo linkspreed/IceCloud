@@ -1,4 +1,4 @@
-# <img align="left" alt="IceCloud" width="40px" src="https://icecloud.cf/system/8168b3dc-239e-430a-adcf-d37f5f018679.png" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/))
+# <img align="left" alt="IceCloud" width="300px" src="https://icecloud.cf/system/8168b3dc-239e-430a-adcf-d37f5f018679.png" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/))
 
 Icecloud - your files safely frozen 🥶
 
