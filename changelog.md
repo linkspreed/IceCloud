@@ -1,3 +1,57 @@
+
+## Version 2.2
+#### Release date: 18. May 2022
+***PHP 8.1***
+
+### Fixes
+- Solved issue with database backup notifications
+- Solved issue where after team member was invited into team folder, email with urging the recipient to create new account was sent
+- You are now allowed to set price for metered billing in 3 decimal places
+- Solved UI issue with empty notification popup
+- Plans in fixed subscription are now automatically sorted from lower to higher price
+- When new user was created via admin, the verification email was send
+- Item name in list view type is now extended on the full page width
+
+### New Features
+- API version 1 released
+- Paginated records loading with infinity scroller
+- If you send file request for native user via email option, the push notification will be sent to the user
+- Ability to test your websocket (Broadcasting) connection
+
+## Version 2.1.3
+#### Release date: 10. May 2022
+- Ability to manually synchronize plans in fixed subscription type
+- Improved sanitization for .env values to prevent crash your app
+- Improved reCaptcha validation errors
+- Fixed issue when upload doesn't start after you drag the file into empty view
+- Fixed issue when homepage flash to sign in screen after the homepage was disabled in admin panel
+- Fixed trash navigator issue
+- Fixed issue when you create plan with 0 team members amount
+
+## Version 2.1.2
+#### Release date: 8. May 2022
+- Fixed issue with chunk uploads (Critical issue affected since 2.1.1)
+- Fixed issue with creating plan with unlimited team members
+
+## Version 2.1.1
+#### Release date: 29. April 2022
+- Fixed issue with reading image upload
+
+## Version 2.1.0
+#### Release date: 25. April 2022
+- New **remote upload** function
+- Broadcast server implementation
+
+## Version 2.0.19
+#### Release date: 21. April 2022
+- The switch button in archived plans is now hidden
+- Fixed upload progressbar in mobile version
+- Added Viet Nam language into the language editor
+
+## Version 2.0.18
+#### Release date: 19. April 2022
+- Fixed issue with Google login button
+
 ## Version 2.0.17
 #### Release date: 12. April 2022
 - Added option to use FTP as VueFileManager file storage server
