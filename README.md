@@ -5,6 +5,7 @@ Icecloud - your files safely frozen 🥶
 
 ## **[Changelog 🥶](https://github.com/linkspreed/icecloud/blob/main/changelog.md)** **Check out the full IceCloud changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/icecloud/blob/main/Special_Works.md)** **Take a look at what changes we are doing to IceCloud besides development**
+## **[API](https://github.com/linkspreed/IceCloud_API)** **Check out the full IceCloud API**
 
 
 <div align="center">
