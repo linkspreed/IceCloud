@@ -1,3 +1,18 @@
+## Version 2.2.0.8
+#### Release date: 15. Jun 2022
+- Fixed issue when you tried switch to another language, the language stay same
+
+## Version 2.2.0.7
+#### Release date: 13. Jun 2022
+- Solved issue when you click on the PayPal logo it makes the new copy of the payment buttons
+
+## Version 2.2.0.6
+#### Release date: 13. Jun 2022
+- Solved issue when user wasn't redirected into stripe checkout
+
+## Version 2.2.0.5
+#### Release date: 12. Jun 2022
+- Solved issue with showing trash content (Affected since 2.2.0)
 
 ## Version 2.2
 #### Release date: 18. May 2022
