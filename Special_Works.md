@@ -1,3 +1,6 @@
+# 03.07.2022 
+ - We released the new version 2.2.0.11. The full list of changes can be found in the changelog.
+
 # 29.06.2022
  - We released the new version 2.2.0.8. The full list of changes can be found in the changelog.
 
