@@ -1,3 +1,22 @@
+## Version 2.2.0.11
+#### Release date: 03. Jul 2022
+- Added hint to set cron command in dashboard panel when cron is not set correctly
+
+## Version 2.2.0.10
+#### Release date: 27. Jun 2022
+- Fixed issue with downloading certain file types when you are using Backblaze storage driver
+- Fixed issue when Google Analytics doesn't record visitors
+
+## Version 2.2.0.9
+#### Release date: 23. Jun 2022
+- Added spinner when pdf is loading
+- Set sandbox/live mode in PayPal key configuration setup form
+- Fixed issue when after deleting user, the related subscription wasn't deleted
+- Fixed issue when you perform composer update with private repository
+- Fixed issue where change in sorting option will duplicate the content in file view
+- Fixed issue where Dragged & Dropped folder from desktop didn't start uploading
+- Fixed issue when you upload empty .txt file, it stops the upload process
+
 ## Version 2.2.0.8
 #### Release date: 15. Jun 2022
 - Fixed issue when you tried switch to another language, the language stay same
