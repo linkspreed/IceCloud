@@ -1,3 +1,6 @@
+### 23.10.2022 (announcement)
+- We will release a major update for this cloud in the coming weeks.
+
 # 03.07.2022 
  - We released the new version 2.2.0.11. The full list of changes can be found in the changelog.
 
