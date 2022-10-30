@@ -1,4 +1,7 @@
 ### 30.10.2022 (announcement IceCloud)
+- The code is now ready for the launch of version 2.2.7 for **IceCloud**.
+
+### 30.10.2022 (announcement IceCloud)
 **IceCloud** gets a big update today - we are going to launch v2.2.7. 😍
 
 ### 30.10.2022 (announcement Web5)
