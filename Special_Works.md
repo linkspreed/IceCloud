@@ -1,3 +1,6 @@
+### 31.12.2022 (announcement IceCloud)
+- We are currently working on adding our intelligent cloud **IceCloud** to the decentralized file storage network!
+
 ### 30.10.2022 (announcement IceCloud)
 - https://github.com/linkspreed/IceCloud/blob/main/changelog.md
 - The entire changelog is now available on Github.
