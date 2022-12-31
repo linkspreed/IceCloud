@@ -1,7 +1,8 @@
-# <img align="left" alt="IceCloud" width="300px" src="https://icecloud.cf/system/8168b3dc-239e-430a-adcf-d37f5f018679.png" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/))
+# <img align="left" alt="IceCloud" width="300px" src="https://icecloud.cf/system/8168b3dc-239e-430a-adcf-d37f5f018679.png" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/)) - Decentralized (Web3) | (v2.2.7)
 
 Icecloud - your files safely frozen 🥶
 
+## Now **IceCloud** is completely decentralized and runs on a global, decentralized network!
 
 ## **[Changelog 🥶](https://github.com/linkspreed/icecloud/blob/main/changelog.md)** **Check out the full IceCloud changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/icecloud/blob/main/Special_Works.md)** **Take a look at what changes we are doing to IceCloud besides development**
