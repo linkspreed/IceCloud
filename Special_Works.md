@@ -1,4 +1,9 @@
 ### 31.12.2022 (announcement IceCloud)
+- **IceCloud** has been successfully decentralized!  
+- Now use the big cloud completely decentralized!  
+- Faster, safer and modern!
+
+### 31.12.2022 (announcement IceCloud)
 - We are currently working on adding our intelligent cloud **IceCloud** to the decentralized file storage network!
 
 ### 30.10.2022 (announcement IceCloud)
