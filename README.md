@@ -1,4 +1,4 @@
-# <img align="left" alt="IceCloud" width="300px" src="https://icecloud.cf/system/8168b3dc-239e-430a-adcf-d37f5f018679.png" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/)) - Decentralized (Web3) | (v2.2.7)
+# <img align="left" alt="IceCloud" width="300px" src="https://user-images.githubusercontent.com/102324985/210140785-2a801a80-b32b-41ed-8c52-785e07aca3bb.png" draggable="false" /> IceCloud ([Click to try 🚀](https://icecloud.cf/)) - Decentralized (Web3) | (v2.2.7)
 
 Icecloud - your files safely frozen 🥶
 
