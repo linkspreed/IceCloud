@@ -1,3 +1,6 @@
+### 16.06.2023 (announcement Icecloud)
+- 🎉 We're excited to announce that IceCloud is now a part of our subdomain system! 🔗 Head over to https://icecloud.cf and you'll be redirected to https://icecloud.linkspreed.com. Don't worry, everything will work the same, it's just a technical update. 🤖 Have you tried IceCloud yet? What's your favorite feature? #IceCloudUpdate #LinkspreedTech 💻
+
 ### 31.12.2022 (announcement IceCloud)
 - **IceCloud** has been successfully decentralized!  
 - Now use the big cloud completely decentralized!  
